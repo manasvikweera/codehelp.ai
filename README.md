@@ -6,10 +6,13 @@ Upon receiving a prompt from the user, the application appends it to the interac
 Furthermore, the interaction history aids in the debugging process by providing context for identifying and fixing errors. Future updates may enhance debugging capabilities with features such as error message analysis and code validation, ensuring even more effective assistance in debugging tasks.
 
 # code generation 
-![Screenshot (232)](https://github.com/manasvikweera/codehelp.ai/assets/95918503/384ffe4d-8f4b-4131-93ec-5ba3d13c8604)
+
+![Screenshot (232)](https://github.com/manasvikweera/codehelp.ai/assets/95918503/8c998752-40d9-4b87-9f28-4a3ec5afdfb5)
 
 # code completion 
-![Screenshot (233)](https://github.com/manasvikweera/codehelp.ai/assets/95918503/db7b13e4-ffe0-420b-bb44-87beabb4ec4c)
+
+![Screenshot (233)](https://github.com/manasvikweera/codehelp.ai/assets/95918503/df9a5a65-619b-40e7-8448-b068fe49a452)
+
 
 ## Installation
 
